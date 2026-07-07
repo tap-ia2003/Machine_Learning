@@ -1,2 +1,2 @@
 # Machine_Learning
-its a repository with machine learning applied to economics.
+its a repository with machine learning applied to economics, all with the purpose of learning.
